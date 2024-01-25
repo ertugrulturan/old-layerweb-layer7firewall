@@ -16,4 +16,6 @@ echo "* - nofile 65536" >> /etc/security/limits.conf
 echo "root - nofile 65536" >> /etc/security/limits.conf
 echo "DefaultLimitNOFILE=65536" >> /etc/systemd/system.conf
 ```
-+ https://github.com/ertugrulturan/Kernel-DOS-Self-Protection
+## and https://github.com/ertugrulturan/Kernel-DOS-Self-Protection
+It is an experimental project, so I will not share all the installation instructions, but even this much will help the enthusiasts improve. Good works.
+
